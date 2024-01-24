@@ -1,0 +1,247 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(194, 248, 113);
+}
+
+.box1 {
+    width: 150px;
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 650px;
+    margin-top: 300px;
+
+}
+
+.card1 {
+    width: 50px;
+    height: 100px;
+    background-color: blue;
+}
+
+.card2 {
+    width: 50px;
+    height: 100px;
+    background-color: white;
+}
+
+.card3 {
+    width: 50px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2 {
+    width: 150px;
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 900px;
+    margin-top: -100px;
+
+}
+
+.card4 {
+    width: 50px;
+    height: 100px;
+    background-color: green;
+}
+
+.card5 {
+    width: 50px;
+    height: 100px;
+    background-color: white;
+}
+
+.card6 {
+    width: 50px;
+    height: 100px;
+    background-color: red;
+}
+
+.box3 {
+    position: relative;
+    width: 150px;
+    height: 95px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    left: 1120px;
+    top: -100px;
+
+}
+
+.card7 {
+    width: 150px;
+    height: 33px;
+    background-color: black;
+}
+
+.card8 {
+    width: 150px;
+    height: 33px;
+    background-color: red;
+}
+
+.card9 {
+    width: 150px;
+    height: 33px;
+    background-color: yellow;
+}
+
+.box4 {
+    width: 150px;
+    height: 95px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin-left: 1340px;
+    margin-top: -200px;
+}
+
+.card10 {
+    width: 150px;
+    height: 33px;
+    background-color: white;
+}
+
+.card11 {
+    width: 150px;
+    height: 33px;
+    background-color: rgb(7, 205, 63);
+}
+
+.card12 {
+    width: 150px;
+    height: 33px;
+    background-color: red;
+}
+
+.box5 {
+    width: 150px;
+    height: 100px;
+    background: linear-gradient(147deg, red 33.3% 40%, yellow 30% 60%, blue 40% 100%);
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.box6 {
+    width: 150px;
+    height: 100px;
+    background: linear-gradient(33deg, green 50%, yellow 50% 100%);
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.boxs {
+    margin-left: 1100px;
+    margin-top: -100px;
+}
+
+.box7 {
+    width: 180px;
+    height: 90px;
+    background-color: yellow;
+}
+
+.box8 {
+    width: 70px;
+    height: 40px;
+    background-color: blue;
+    margin-top: -95px;
+}
+
+.box9 {
+    width: 70px;
+    height: 40px;
+    background-color: blue;
+    margin-top: 15px;
+}
+
+.box10 {
+    width: 90px;
+    height: 40px;
+    background-color: blue;
+    margin-top: -40px;
+    margin-left: 90px;
+}
+
+.box11 {
+    width: 90px;
+    height: 40px;
+    background-color: blue;
+    margin-top: -95px;
+    margin-left: 90px;
+}
+
+.box12 {
+    width: 150px;
+    height: 95px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin-left: 1340px;
+    margin-top: -40px;
+}
+
+.card13 {
+    width: 150px;
+    height: 33px;
+    background-color: rgb(78, 0, 233);
+}
+
+.card14 {
+    width: 150px;
+    height: 33px;
+    background-color: rgb(0, 0, 0);
+}
+
+.card15 {
+    width: 150px;
+    height: 33px;
+    background-color: rgb(255, 255, 255);
+}
+.box13{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 980px;
+    margin-top: 50px;
+}
+.card16{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    margin-top: 34px;
+}
+.card17{
+    position: absolute;
+    width: 150px;
+    height: 10px;
+    background-color: red;
+    margin-top: 45px;
+}
+.header{
+    color: white;
+}
